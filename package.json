@@ -12,7 +12,7 @@
     },
     "standard-version": {
         "t": "",
-        "releaseCommitMessageFormat": "<plugin-template> Release: v{{currentTag}}"
+        "releaseCommitMessageFormat": "Obsidian Prettier Release: v{{currentTag}}"
     },
     "keywords": [],
     "author": "",
