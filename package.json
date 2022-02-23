@@ -1,6 +1,6 @@
 {
     "name": "obsidian-prettier",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Use Prettier to format your notes!",
     "main": "main.js",
     "scripts": {
